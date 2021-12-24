@@ -1,1 +1,2 @@
-hello RS shool
+# hello RS shool
+## Git is easy
